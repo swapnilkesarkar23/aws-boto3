@@ -1,0 +1,1 @@
+Create a dynamo table with partition key as key
