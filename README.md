@@ -14,12 +14,12 @@
 
 ## Section 3: Security
 ➔ Rotating IAM access keys \
-➔ Enable VPC flow logs \
+➔ Enable VPC flow logs 
 
 ## Section 4: DynamoDB
 ➔ Import csv files \
 ➔ Operations \
-➔ Scheduling backups \
+➔ Scheduling backups
 
 ## Section 5: SQS
 ➔ Triggering Lambda for SQS
