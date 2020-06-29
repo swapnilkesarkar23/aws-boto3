@@ -1,0 +1,1 @@
+Create a dynamo Db table Movies with Partition key as Year(Number) and Sort key as Title(String)
