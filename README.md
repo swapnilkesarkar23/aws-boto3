@@ -5,7 +5,7 @@
 ➔ Stop EC2 instance nightly \
 ➔ Backing up ec2 instances \
 ➔ Remove unattached ebs volumes \
-➔ Deregister old amis \
+➔ Deregister old amis
 
 ## Section 2: S3
 ➔ Face detection using Rekognition \
